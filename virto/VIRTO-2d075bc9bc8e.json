@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "virto-61a19",
+  "private_key_id": "2d075bc9bc8ee0281ef46926a7e1316f7bce5ea2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCfR0ArJX94dRtk\nkbLWa8ou6jAxOYucFvvprG/CQwT/EG24onFzwqwEsOK0VlS46oKjXKkHOrMtEqxR\nA2bTKHvuhpwBoYMgPJiXZwBNZZku2pSMt8oqQ8GkxexfC2XUq38/umUfiBUZyK+U\nH6dXHADVtIDednPHaJ+izTTpk9MLreSI0NoJDALy+BVKMONKLrx9RVaCxJSPGv4s\nwJPfCpjycnDj+hAfEnAnE8JgMNfv4wm03En54+7gi1xqme7jsAXRVtG4esEBWg5r\n7/KqMYAy6vRira1Y37RUvmmWs4Tm7B8+MAE6b+NScJS8/nmQBU+sBG+AwaUK74X6\ndMvZVICRAgMBAAECggEAAajklvrlrjLNr7TnWpOEreKR6aKxPxvnsDU0Qsz6d9Ff\nzFs145oY3E3pTpl63OJ+Yo1PttK/n2R4oW9rl0ByqknAg0o5lbgCH8MvL7wvT3A2\nNN+yQI/RYebFo0jgM4gMOK68FkjylzZ3UzUG+dBrAHRALeoMXZ3D2qtERHtqt5BH\nD/c1GEE07ozMgEwRKeYZ0U0bcrniqk8yyhtUKOIrZyYPCIA5BgSKOvTFt9EHfPsw\nP1HF5pGriFFEswAWPkX8KPEMp+R2JdlvFe3XTlkWuZKw1e0IuNz00ek0vPu69nS5\ngI1Gc4sisaUE9aZUvMpN/TgpyUXo6umSP1lsjYEDPwKBgQDRbayI4PO3mkSyZ8BV\n1I9yta1Ub9dA1GTrA2Iap0BF9tq55VoSMH2EbvjCTFUhy0w/pL73AiRHdesyIoHS\nHu2NW/leHV0Vr+jblkNCLOcjidcGrRnJ9+u1c7y40ZIkHJcUfZWfjU2G4BLitrKT\nw2XGSxE0nvp8DjFkBKVTxZSiowKBgQDCsqLGFdAtsMweugH3DmAxsTcGbFJA+tI/\nxtCXZ8g70MnGd/Quc+4QGzmc+Nkcv4o+FelE1i8kp7MsjpmT9Eyyy4dhomZb6x9u\nPbbFWa6LIxQT4h01DvRw39kdAPTsP10hGqc47T086fIESqd141QueM42oAmJKdtw\nWqZ7jnY3OwKBgQCq25omNbg/8yjWkBR3MaoyQIv/Vhs7tcv7e9AexJKIQeOiQ74f\nFtZgJBTol1Pg9TXoumRdqq6kakyOo15caYUOjZm9MaGOnuwPseB/bZjJApydwr1G\na/AuIhU2hyt+MKEFQ4u9Fo/IWKivs7OvH3u5seaAkq7yZLXgznV/CbPAlwKBgQC7\nUj+Fscr/itB456GoX25xoP098s4YsrnCnrhmU3W1ByZ7C0Ilx2hOmsMNoebR3/9T\nyKUMk7372FVtEy3zyeJZS7TPXP56hXdSC5JjwetK9s8EalKLj/3i85viad87xaMG\njKxC+w4mIze0pVcE91kw9Q4CRGuoSltUeAMhcWmPrQKBgFN80pF6oPX7oOjMDfFB\nKkAu4wYp2eML5IKBZcXDXaR2mm2Hy/3eIOLBP0i3Qpu+0YeUlLslRJuW4+I5b2Lc\nCcZj4+PbPEtr0IRHDev+sUlSVEy9Fhn9WePODIO5go7iHRH9G/7Hh2nBU1g464d7\n1TBrODtGnhBA6Y1/iH54AA49\n-----END PRIVATE KEY-----\n",
+  "client_email": "virto-speech@virto-61a19.iam.gserviceaccount.com",
+  "client_id": "109467728470115719323",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/virto-speech%40virto-61a19.iam.gserviceaccount.com"
+}
