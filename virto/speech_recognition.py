@@ -634,7 +634,7 @@ class Recognizer(AudioSource):
         listener_thread.start()
         return stopper
 
-    def _get_recognize_sphinx(self, language="en-US", keyword_entries=None):
+    def get_recognize_sphinx(self, language="en-US", keyword_entries=None):
         """
         Get sphinx decoder and cache
         """

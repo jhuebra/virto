@@ -7,6 +7,7 @@ recognize speech using Google Cloud Speech
 
 import os
 import sys
+import time
 import unittest
 import speech_recognition as sr
 
@@ -27,12 +28,16 @@ class GoogleSpeechTest(unittest.TestCase):
             recognizer = sr.Recognizer()
             wav_file = "holavirto2.wav"
             wav_file = "traeme.wav"
-            wav_file = "agua.wav"
+            #wav_file = "agua.wav"
 
+            t1 = time.time()
             with sr.AudioFile(os.path.join(PROJECT_ROOT, wav_file)) as source:
                 audio = recognizer.listen(source, phrase_time_limit=5) 
-
+            t2 = time.time()
+            print(t2 - t1)
             # print("Google Cloud Speech thinks you said " + r.recognize_google_cloud(audio, credentials_json=GOOGLE_CLOUD_SPEECH_CREDENTIALS, language="es-ES"))
+            t3 = time.time()
+            print(t3 - t2)
             print("Google Cloud Speech thinks you said " + recognizer.recognize_google_cloud(audio, language="es-ES"))
         except sr.UnknownValueError:
             print("Google Cloud Speech could not understand audio")

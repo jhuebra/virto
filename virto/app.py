@@ -119,7 +119,7 @@ class VirtoSound(object):
 
     def run(self):
         """
-        Main control loop.
+        Stat main control loop.
         Start sound daemon and 0MQ control channel.
         """
 
@@ -130,7 +130,7 @@ class VirtoSound(object):
         d.setDaemon(True)
         d.start()
 
-        # 2. Control loop. IPC loop
+        # 2. Control loop. IPC loopº
         self._control_channel()
 
 
